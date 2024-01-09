@@ -1,5 +1,7 @@
 # Redesign the World’s Gold Demand Visualization
 By undertaking this project, we aim to transform a poorly designed graph into a more effective and understandable visualization, enhancing the overall communication of data insights. 
+![image](https://github.com/rishikaaleti/Redesign-Project/assets/137991044/e9f00371-a232-4484-8817-84ea718d4ef9)
+
 
 ## INTRODUCTION
 The main objective of the report is to create a good graph for the dataset. The dataset is related to the period of market volatility, investors invested in gold to minimize their risk of losing money. As a result of the coronavirus, which has caused the worst volatility in financial markets in a decade’s gold has seen its highest weekly rise since 2008. I have selected this visualization because the visualization looked a little disturbing and lacked to give detailed information. When a graph is visually pleasing and simple to understand, it is deemed good. All axes and data points should be accurately depicted and proportioned, and it should be properly labeled. There should be no stray marks or faulty data points on the graph as well. Color distinction across different data sets can also help consumers distinguish between data sets and avoid information overload. In addition to being clear and succinct, a good graph is easy to understand. It should express the facts in an easy-to-understand manner, with no unnecessary details or ambiguous data.
