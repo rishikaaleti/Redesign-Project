@@ -1,0 +1,3 @@
+# Abstract
+Visualization is an approach in which we can represent all the data that is collected in one place. Businesses use visualizations to mislead the audience and hence they are not completely trusted. Visualizations can be good or bad, in my redesign project I have considered a bad visualization and made a good graph of it.
+Firstly, analysis of data is done. Then the data is entered manually in R programming language and good graph is created using R programming language. Few additional plots are also created to make the data more understandable. Moreover, there is a comparison of demand in the years 2019 and 2020. 
