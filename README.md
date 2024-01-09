@@ -1,5 +1,5 @@
 # Redesign the World’s Gold Demand Visualization
-This projecte this aims to transform a poorly designed graph into enhancing the overall communication of data insights. 
+This project this aims to transform a poorly designed graph into enhancing the overall communication of data insights. 
 ![image](https://github.com/rishikaaleti/Redesign-Project/assets/137991044/e9f00371-a232-4484-8817-84ea718d4ef9)
 
 
