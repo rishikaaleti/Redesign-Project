@@ -9,13 +9,14 @@ The objective of this project is to improve the clarity and effectiveness of a p
 
 ## General Framework
 
+![image](https://github.com/rishikaaleti/Redesign-Project/assets/137991044/26ab770a-e6c5-45ef-80b6-adae94f0637b)
+
+
 #### 1 . Graph Analysis:
-Examine the existing graph to identify shortcomings, such as unclear visual representation, inadequate labeling, or misleading elements.
 Understand the dataset and the intended message that the original graph was supposed to convey.
 
 #### 2. Select Appropriate Visualization:
-Choose the most suitable type of graph or chart based on the nature of the data and the message you want to convey.
-Consider alternatives to the original graph type if necessary.
+Consider alternatives to the original graph type.
 
 #### 3. Data Cleaning and Preparation:
 Ensure that the dataset is clean and formatted correctly for the chosen visualization.
@@ -30,7 +31,7 @@ Enhance visual elements such as color, size, and shape to improve clarity.
 Implement appropriate labeling, titles, and annotations to provide context and understanding.
 
 #### 6. Iterative Design Process:
-Engage in an iterative design process by obtaining feedback from stakeholders or team members.
+Engage in an iterative design process by obtaining feedback from others.
 Make adjustments to the visualization based on feedback to ensure that it effectively communicates the intended message.
 
 #### 7. Documentation:
